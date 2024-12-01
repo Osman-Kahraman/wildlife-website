@@ -28,14 +28,6 @@ This project is a **Wildlife Website** focused on providing information about va
 
 ---
 
-## Technologies Used
-- **HTML5**: Structure and semantic content.
-- **CSS3**: Custom styling and animations.
-- **Bootstrap 4**: Responsive design framework.
-- **JavaScript**: Enhancements and interactivity.
-
----
-
 ## Getting Started
 To run this project locally:
 1. Clone this repository:
@@ -45,8 +37,8 @@ To run this project locally:
    ```cd wildlife-website```
 3. Open index.html in your browser:
    ```start index.html # Windows
-   open index.html  # macOS```
-   xdg-open index.html # For Linux
+   open index.html  # macOS
+   xdg-open index.html # For Linux```
 ## Credits
 This project has been made possible with the contribution of various tools, resources, and individuals:
 
