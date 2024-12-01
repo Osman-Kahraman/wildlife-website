@@ -1,0 +1,51 @@
+.scroll-box {
+  width: 90%;
+  height: 600px;
+  overflow: auto;
+  border: 1px solid #ffffff;
+  padding: 10px;
+  object-fit: contain;
+}
+.exp {
+  background-color: #ffffff;
+}
+.ex1 {
+  position: relative;
+  width: 100%;
+}
+.ex1 img {
+  width: 100%;
+  height: auto;
+}
+.ex1 .btn {
+  position: absolute;
+  top: 52%;
+  left: 57%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #00000000;
+  color: rgba(0, 0, 0, 0);
+  font-size: 16px;
+  padding: 24px 24px;
+  border: none;
+  cursor: pointer;
+}
+.ex1 .btn:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+.ex1 .btn1 {
+  position: absolute;
+  top: 12%;
+  left: 82%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #ffffff00;
+  color: rgb(255, 0, 0);
+  font-size: 30px;
+  padding: 1px 1px;
+  border: none;
+  cursor: pointer;
+}
+.ex1 .btn1:hover {
+  background-color: rgba(255, 255, 255, 0);
+}
