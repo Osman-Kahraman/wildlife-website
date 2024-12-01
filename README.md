@@ -31,14 +31,20 @@ This project is a **Wildlife Website** focused on providing information about va
 ## Getting Started
 To run this project locally:
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/Osman-Kahraman/wildlife-educational-website.git```
+   ```
+   bash
+   git clone https://github.com/Osman-Kahraman/wildlife-educational-website.git
+   ```
 2. Navigate to the project folder:
-   ```cd wildlife-website```
-3. Open index.html in your browser:
-   ```start index.html # Windows
+   ```
+   cd wildlife-website
+   ```
+4. Open index.html in your browser:
+   ```
+   start index.html # Windows
    open index.html  # macOS
-   xdg-open index.html # For Linux```
+   xdg-open index.html # For Linux
+   ```
 ## Credits
 This project has been made possible with the contribution of various tools, resources, and individuals:
 
