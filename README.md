@@ -32,8 +32,7 @@ This project is a **Wildlife Website** focused on providing information about va
 To run this project locally:
 1. Clone this repository:
    ```
-   bash
-   git clone https://github.com/Osman-Kahraman/wildlife-educational-website.git
+   git clone https://github.com/Osman-Kahraman/wildlife-website.git
    ```
 2. Navigate to the project folder:
    ```
