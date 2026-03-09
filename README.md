@@ -1,4 +1,4 @@
-# Wildlife Website 🌿🐒
+# Wildlife Website
 
 This project is a **Wildlife Website** focused on providing information about various species, particularly the **Proboscis Monkey**. The website is simple, responsive, and educational, using a mix of proprietary and open-licensed resources.
 
